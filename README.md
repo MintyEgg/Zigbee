@@ -1,4 +1,4 @@
 Zigbee
 ======
 
-zigbee protocl
+zigbee protocol.
